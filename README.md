@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bodulus17
 - 👀 I’m interested in ...python, R, data analysis
-- 🌱 I’m currently learning ...python 
+- 🌱 I’m currently learning ... R 
 - 💞️ I’m looking to collaborate on ... at the moment not alot - i will only slow you down
 - 📫 How to reach me ... benodams@gmail.com
 
